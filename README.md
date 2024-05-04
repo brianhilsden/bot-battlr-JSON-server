@@ -53,7 +53,7 @@ server.listen(process.env.PORT || 5000, () => {
     {
       "title": "Third Article",
       "content": "Another example!",
-      "id": 3
+      "id": 4
     }
   ]
 }
