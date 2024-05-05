@@ -1,7 +1,7 @@
 # projectname-mock-api
 
 #### Prerequisite
-* Create a folder
+* Create folder
 ```
 mkdir <projectname>-mock-api
 cd <projectname>-mock-api
